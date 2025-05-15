@@ -12,7 +12,7 @@ function App() {
       <div className="App">
         <nav>
           <ul>
-            <li>
+           {/* <li>
               <Link to="/">Home</Link>
             </li>
             <li>
@@ -23,7 +23,7 @@ function App() {
             </li>
             <li>
               <Link to="/contact">Contact</Link>
-            </li>
+            </li>*/}
           </ul>
         </nav>
 
